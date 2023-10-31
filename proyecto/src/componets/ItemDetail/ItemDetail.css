@@ -1,0 +1,13 @@
+.producto{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.producto img{
+    width: 50%;
+    padding: 1px;
+    box-shadow: 0 0 5px 2px;
+    margin: 10px 0; 
+}

@@ -1,0 +1,14 @@
+[
+    {"id": 1, "nombre": "Remera Azul", "descripcion": "Remera de algodón azul", "imagen": "https://i.pinimg.com/564x/92/47/20/924720f232ea063ead0e0bab398aa590.jpg", "precio": 20, "stock": 10, "categoria": "remeras"},
+    {"id": 2, "nombre": "Remera Roja", "descripcion": "Remera de algodón roja", "imagen": "https://i.pinimg.com/564x/e0/77/e7/e077e734a0d7500fd089fb99a5352b81.jpg", "precio": 18, "stock": 8, "categoria": "remeras"},
+    {"id": 3, "nombre": "Remera Negra", "descripcion": "Remera de algodón negra", "imagen": "https://i.pinimg.com/564x/df/91/e9/df91e9d501978acec4ca1c0f2597f984.jpg", "precio": 22, "stock": 12, "categoria": "remeras"},
+    {"id": 4, "nombre": "Remera Verde", "descripcion": "Remera de algodón verde", "imagen": "https://i.pinimg.com/564x/e6/46/65/e64665448b8249493bcfd17116ffd4b0.jpg", "precio": 19, "stock": 9, "categoria": "remeras"},
+    {"id": 5, "nombre": "Buzo Gris", "descripcion": "Buzo de algodón gris", "imagen": "https://i.pinimg.com/564x/4b/a8/dd/4ba8dd72859904cc6bf8b75d0437a5f3.jpg", "precio": 40, "stock": 10, "categoria": "buzos"},
+    {"id": 6, "nombre": "Buzo Negro", "descripcion": "Buzo de algodón negro", "imagen": "https://i.pinimg.com/564x/8b/86/f2/8b86f28e9279495b9842aff962171594.jpg", "precio": 38, "stock": 8, "categoria": "buzos"},
+    {"id": 7, "nombre": "Buzo Azul", "descripcion": "Buzo de algodón azul", "imagen": "https://i.pinimg.com/564x/92/23/50/92235059ec0369caf43e822a9ad37d6d.jpg", "precio": 42, "stock": 12, "categoria": "buzos"},
+    {"id": 8, "nombre": "Buzo Rojo", "descripcion": "Buzo de algodón rojo", "imagen": "https://i.pinimg.com/564x/01/45/bb/0145bbca2caae35e6ebe77a59a0381ab.jpg", "precio": 39, "stock": 9, "categoria": "buzos"},
+    {"id": 9, "nombre": "Taza de porcelana Flash", "descripcion": "Taza de porcelana flash", "imagen": "https://i.pinimg.com/564x/ba/fc/5a/bafc5a726915b7618706521a6a512978.jpg", "precio": 10, "stock": 10, "categoria": "tazas"},
+    {"id": 10, "nombre": "Taza Superman", "descripcion": "Taza de porcelana Superman", "imagen": "https://i.pinimg.com/564x/2c/0e/59/2c0e59bff963d8b969d91d4f2cfdc095.jpg", "precio": 12, "stock": 8, "categoria": "tazas"},
+    {"id": 11, "nombre": "Taza Batman", "descripcion": "Taza de porcelana Batman", "imagen": "https://i.pinimg.com/564x/e9/af/98/e9af980f6a10197e4c9b491bd2b6d18e.jpg", "precio": 11, "stock": 12, "categoria": "tazas"},
+    {"id": 12, "nombre": "Taza Super mario bros", "descripcion": "Taza de porcelana super mario bros", "imagen": "https://i.pinimg.com/564x/fb/48/e3/fb48e37b556653cdb6b872e10525dc72.jpg", "precio": 13, "stock": 9, "categoria": "tazas"}
+]

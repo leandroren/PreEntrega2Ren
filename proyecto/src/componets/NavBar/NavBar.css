@@ -1,0 +1,56 @@
+.navbar{
+  background-color: rgb(246, 246, 246);
+  margin: 0 0 1rem 0;
+}
+
+
+.logo{
+  width: 33%;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.botonera{
+  font-size: 20px;
+  width: 33%;
+}
+
+.botonera .nav-link{
+  margin-left: 1.5rem;
+  font-weight: bold;
+  color: rgb(11, 11, 11);
+}
+
+.botonera .nav-link.active{
+  color: rgb(11, 11, 11);
+}
+
+.botonera .nav-link:hover{
+  color: rgb(218, 27, 164);
+}
+
+.navbar-toggler{
+  border: 0.5px solid black;
+}
+
+.cart svg{
+  width: 40px;
+  height: 40px;
+}
+
+
+@media  
+screen and (max-width: 425px) {
+  .logo{
+    width: 100%;
+  }
+}
+
+@media  
+(min-width: 425px) and (max-width: 768px) {
+  .logo{
+    width: 60%;
+  }}
+
